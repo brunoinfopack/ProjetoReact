@@ -10,11 +10,7 @@ export default function CityInfo(props: { cidade: Cidade }) {
     return (
         <View style={styles.container}>
             <View style={styles.card}>
-                {/* Imagem de destaque */}
-                <Image
-                    source={{ uri: 'https://picsum.photos/300/150' }}
-                    style={styles.cityImage}
-                />
+                {/* Imagem de destaque */}                
 
                 {/* Informações da cidade */}
                 <View style={styles.cityDetails}>
