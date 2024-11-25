@@ -22,7 +22,7 @@ LOCALIZACAO
 
 COORDENADAS
 
-<img src="Visualizar Coordenadas.png" alt="COORDENADAS" style="width:200px;heigth:200px">
+<img src="prints/Visualizar Coordenadas.png" alt="COORDENADAS" style="width:200px;heigth:200px">
 
 DETALHES CIDADES
 
