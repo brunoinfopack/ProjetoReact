@@ -4,11 +4,11 @@
     "slug": "projetofinal",
     "version": "1.0.0",
     "orientation": "default",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/mapas.png",
     "scheme": "projetofinal",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/mapas-192.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
